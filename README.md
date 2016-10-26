@@ -1,2 +1,2 @@
-# project_euler
-My project euler solutions in ruby
+# Project Euler
+My solutions to problems found on www.projecteuler.net
